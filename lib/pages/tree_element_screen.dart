@@ -21,7 +21,6 @@ class TreeElementScreen extends StatelessWidget {
           padding: EdgeInsets.symmetric(horizontal: 20.0),
           width: double.infinity,
           height: double.infinity,
-          color: Colors.green,
           child: TreeWidget(),
         ),
       ),
